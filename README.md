@@ -12,4 +12,7 @@ aaaaaaaaaaaaa no habe
 texto con ancho fijo
 
 texto en **negrita**
-texto en **cursiva**
+
+texto en *cursiva*
+
+texto en erco
