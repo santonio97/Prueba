@@ -8,3 +8,8 @@ aaaaaaaaaaaaa no habe
 - illo
 - loko
 - k ase
+
+texto con ancho fijo
+
+texto en **negrita**
+texto en **cursiva**
